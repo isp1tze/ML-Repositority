@@ -4,4 +4,4 @@ A repositority about the priciples of all kinds of machine learning algorithms a
 
  ![image](https://github.com/isp1tze/ML-Repositority/blob/master/Imgs/sklearn.png)
  
- As the image above shown, machine learning tasks can be divided into four parts: classification, regression, cluster and dimension reduction.
+ As the image above shown, machine learning tasks can be divided into four parts: classification, regression, clustering and dimensionality reduction.
