@@ -9,6 +9,11 @@
 
 # 2. Logistic回归
 
+LinearRegression 拟合一个带有系数 w = (w_1, ..., w_p) 的线性模型，使得数据集实际观测数据和预测数据（估计值）之间的残差平方和最小。其数学表达式为:
+
+$\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$
+
+
 # 3. softmax回归
 
 # 4. 感知机
